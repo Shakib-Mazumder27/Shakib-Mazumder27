@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Shakib Aman Mazumder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakib-mazumder27&label=Profile%20views&color=0e75b6&style=flat" alt="shakib-mazumder27" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shakib.mazumder27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bqxl8jGza1ibE5KYcyZuICXPl4e0tHkY/view?usp=drive_link](https://drive.google.com/file/d/1Bqxl8jGza1ibE5KYcyZuICXPl4e0tHkY/view?usp=drive_link)
+- 📄 Know about my experiences https://rb.gy/56xfi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
